@@ -164,8 +164,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   entityObject: {fileID: 1158659876747703972, guid: 834b7fbb927eb4cf28ed26edf9f8fa3b, type: 3}
-  GridWidth: 1000
-  GridHeigth: 1000
+  GridWidth: 4
+  GridHeigth: 4
   spacing: 2
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
